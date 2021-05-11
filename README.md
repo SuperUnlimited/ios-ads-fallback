@@ -11,7 +11,7 @@ Connect to mobilejump Server(167.71.45.40) with tizi_ads user
 ##### find the data in files
 ```grep 'ca-app-pub-3509434118277818/7554047032' *.json```
 
-##### Modify the data in files
+##### Modify/Replace the data in files
 
 Use vi editor or sed command to replace the ad unit ids
 
