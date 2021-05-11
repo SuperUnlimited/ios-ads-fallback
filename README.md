@@ -2,7 +2,7 @@
 
 ### Manual Ad unit Replacement process
 
-Connect to mobilejump Server with tizi_ads user
+Connect to mobilejump Server(167.71.45.40) with tizi_ads user
 ##### ads json files location
 ```cd /home/wwwroot/default/tizi_ads```
 ##### backup of json files
