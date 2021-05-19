@@ -1,4 +1,4 @@
-# ios-ads-json-files test
+# ios-ads-json-files
 
 ### Manual Ad unit Replacement process
 
