@@ -41,7 +41,7 @@
 				{
                     "adSourceName": "admob",
                     "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/9630297722",
+                    "adPlaceID": "ca-app-pub-3509434118277818/7788290561",
                     "adStatus":1,
 					"priority":4
                 },
@@ -79,7 +79,7 @@
 				{
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/7742786047",
+                    "adPlaceID": "ca-app-pub-3509434118277818/6733750263",
                     "adStatus":1,
 					"priority":1
                 },
@@ -115,7 +115,7 @@
 				{
                     "adSourceName": "admob",
                     "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/1799909163",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5803811979",
                     "adStatus":1,
 					"priority":7
                 }
