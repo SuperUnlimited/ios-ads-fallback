@@ -1,9 +1,9 @@
-{
+
 	"app":"ca-app-pub-3509434118277818~2650739609",
 	"lastUpdated":"20180109-1"
-	"interval":10,
-    "ads":[
-		{
+	"interval":10
+    "ads":
+		
 			"adPlaceID":"tizi_open", 
             "adStatus": 1,
             "priorMode": 0,
