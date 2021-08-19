@@ -138,6 +138,35 @@
                     "adStatus":1
                 }
             ]
+        },
+
+        {
+      "adPlaceID": "tizi_banner",
+      "adStatus": 1,
+      "priorMode": 0,
+      "cacheMode": 0,
+      "cacheCount": 1,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adFormatType": "ban",
+          "adPlaceID": "ca-app-pub-3509434118277818/8643879101",
+          "adStatus": 1
+        },
+        {
+          "adSourceName": "admob",
+          "adFormatType": "ban",
+          "adPlaceID": "ca-app-pub-3509434118277818/2270042441",
+          "adStatus": 1
+        },
+        {
+          "adSourceName": "admob",
+          "adFormatType": "ban",
+          "adPlaceID": "ca-app-pub-3509434118277818/1912973318",
+          "adStatus": 1
         }
+      ]
+    }
+	    
     ]
 }
