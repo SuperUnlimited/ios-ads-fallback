@@ -15,6 +15,20 @@
 
 https://docs.google.com/document/d/1eN0DrrzDR6DU9xx17TzB9OCVmyGsZzpW5qZkvstwWvc/edit?usp=sharing
 
+#### check
+
+https://www.mobilejump.mobi/tizi_ads/freetizi1.json
+
+https://www.mobilejump.mobi/tizi_ads/freetizi2.json
+
+https://www.mobilejump.mobi/tizi_ads/freetizi3.json
+
+https://www.mobilejump.mobi/tizi_ads/tizi1.json
+
+https://www.mobilejump.mobi/tizi_ads/tizi2.json
+
+https://www.mobilejump.mobi/tizi_ads/tizi3.json
+
 ### Manual Ad unit Replacement process with server
 
 Connect to mobilejump Server(167.71.45.40) with tizi_ads user
