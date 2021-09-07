@@ -1,6 +1,21 @@
 # ios-ads-json-files
 
-### Manual Ad unit Replacement process
+### Ad unit replacement with Github
+
+* Open https://github.com/SuperUnlimited/ios-ads-json-files
+* Click on the ads folder
+* Click on the file name what we need to modify
+* Click on the Edit pencil symbol
+* Modify file with required changes (ad unit ids)
+* Give Commit message as Jir Ticket Number and Title
+* Click on Commit changes.
+* Now Jenkins Job Alerts will get to our slack channel
+* Should get a Success message and if we get any error message please inform to DevOps team
+* Check changes After 1hr ( Because of Cloudflare cache)
+
+https://docs.google.com/document/d/1eN0DrrzDR6DU9xx17TzB9OCVmyGsZzpW5qZkvstwWvc/edit?usp=sharing
+
+### Manual Ad unit Replacement process with server
 
 Connect to mobilejump Server(167.71.45.40) with tizi_ads user
 ##### ads json files location
