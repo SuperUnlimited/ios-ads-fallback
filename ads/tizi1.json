@@ -56,7 +56,7 @@
 				{
 		    "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/1756368717",
+                    "adPlaceID": "ca-app-pub-3509434118277818/3104977892",
                     "adStatus":1,
 
 					"priority":6
@@ -102,7 +102,7 @@
 				{
                     "adSourceName": "admob",
                     "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/7363918614",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5898662193",
                     "adStatus":1,
 					"priority":4
                 },
