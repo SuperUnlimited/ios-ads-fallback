@@ -1,0 +1,186 @@
+{
+    "lastUpdated":"20180402-1",
+    "interval":10,
+    "ads":[
+        {
+            "adPlaceID":"tizi_startpage",
+            "adStatus":1,
+            "priorMode":0,
+            "cacheMode":0,
+            "cacheCount":1,
+            "showCloseSize":30,
+            "limit":10,
+            "interval":30,
+            "backGroundColor":"#5c000000",
+            "isBack":0,
+            "adStyle":1,
+            "showTime":1,
+            "adDelay":1800,
+            "adSources": [
+                
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/6390607125",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/7848712693",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5074614858",
+                    "adStatus":1
+                },
+
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/6727202718",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/7719141833",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admanager",
+                    "adFormatType": "int",
+                    "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2",
+                    "adStatus": 1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5667980918",
+                    "adStatus":1
+                }
+                
+            ]
+        },
+        {
+            "adPlaceID":"tizi_open",
+            "adStatus": 1,
+            "priorMode": 0,
+            "cacheMode": 0,
+            "cacheCount":1,
+            "showCloseSize":30,
+            "backGroundColor":"#5c000000",
+            "isBack":0,
+            "interval":30,
+            "adStyle":1,
+            "showTime":1,
+            "adDelay":10,
+            "adSources": [
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/8848592967",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/1328801723",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/9549906285",
+                    "adStatus":1
+                },
+                
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/1512295247",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/3194283901",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admanager",
+                    "adFormatType": "int",
+                    "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2",
+                    "adStatus": 1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/6471642725",
+                    "adStatus":1
+                }
+        
+            
+                
+            ]
+        },
+        {
+            "adPlaceID":"tizi_report",
+            "adStatus":1,
+            "priorMode":0,
+            "cacheMode":0,
+            "cacheCount":1,
+            "adSources": [
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/1595268999",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/3260327548",
+                    "adStatus":1
+                },
+                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/3475768787",
+                    "adStatus":1
+                }
+            ]
+        },
+
+        {
+      "adPlaceID": "tizi_banner",
+      "adStatus": 1,
+      "priorMode": 0,
+      "cacheMode": 0,
+      "cacheCount": 1,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adFormatType": "ban",
+          "adPlaceID": "ca-app-pub-3509434118277818/8643879101",
+          "adStatus": 1
+        },
+        {
+          "adSourceName": "admob",
+          "adFormatType": "ban",
+          "adPlaceID": "ca-app-pub-3509434118277818/2270042441",
+          "adStatus": 1
+        },
+        {
+          "adSourceName": "admob",
+          "adFormatType": "ban",
+          "adPlaceID": "ca-app-pub-3509434118277818/1912973318",
+          "adStatus": 1
+        }
+      ]
+    }
+        
+    ]
+}
