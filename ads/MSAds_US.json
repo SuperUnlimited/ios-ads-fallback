@@ -49,17 +49,17 @@
                     "adPlaceID": "ca-app-pub-3509434118277818/7719141833",
                     "adStatus":1
                 },
+                                {
+                    "adSourceName": "admob",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/2679639312",
+                    "adStatus":1
+                },
                 {
                     "adSourceName": "admanager",
                     "adFormatType": "int",
                     "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2",
                     "adStatus": 1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/2679639312",
-                    "adStatus":1
                 }
                 
             ]
@@ -110,16 +110,16 @@
                     "adStatus":1
                 },
                 {
-                    "adSourceName": "admanager",
-                    "adFormatType": "int",
-                    "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2",
-                    "adStatus": 1
-                },
-                {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
                     "adPlaceID": "ca-app-pub-3509434118277818/2599694367",
                     "adStatus":1
+                },
+                {
+                    "adSourceName": "admanager",
+                    "adFormatType": "int",
+                    "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2",
+                    "adStatus": 1
                 }
         
             
