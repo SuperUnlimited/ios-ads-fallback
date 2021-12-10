@@ -32,15 +32,15 @@
                 },
                 {
                     "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/5074614858",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/7386250055",
                     "adStatus":1
                 },
 
                 {
                     "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/7386250055",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5074614858",
                     "adStatus":1
                 },
                 {
@@ -92,15 +92,15 @@
                 },
                 {
                     "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/9549906285",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/4881691430",
                     "adStatus":1
                 },
                 
                 {
                     "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/4881691430",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/9549906285",
                     "adStatus":1
                 },
                 {
