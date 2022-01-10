@@ -20,14 +20,14 @@
                 
                 {
                     "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/4526551331",
+                    "adFormatType": "int",
+                    "adPlaceID": "ca-app-pub-3509434118277818/6390607125",
                     "adStatus":1
                 },
                 {
                     "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/6390607125",
+                    "adFormatType": "adv_nav",
+                    "adPlaceID": "ca-app-pub-3509434118277818/4526551331",
                     "adStatus":1
                 },
                 {
