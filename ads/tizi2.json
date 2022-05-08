@@ -1,6 +1,6 @@
 {
 	"app":"ca-app-pub-3509434118277818~2650739609",
-	"lastUpdated":"20220503-1",
+	"lastUpdated":"20220508-1",
 	"interval":10,
     "ads":[
 		{
@@ -56,7 +56,7 @@
 				{
 		    "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/7031536927",
+                    "adPlaceID": "ca-app-pub-3509434118277818/7958373698",
                     "adStatus":1,
 
 					"priority":6
