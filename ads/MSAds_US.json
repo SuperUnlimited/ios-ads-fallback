@@ -1,5 +1,5 @@
 {
-    "lastUpdated":"20220518-1",
+    "lastUpdated":"20220521-1",
     "interval":10,
     "ads":[
         {
@@ -39,7 +39,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/4126400899",
+                    "adPlaceID": "ca-app-pub-3509434118277818/2872226640",
                     "adStatus":1
                 },
                 {
@@ -51,7 +51,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/3549398979",
+                    "adPlaceID": "ca-app-pub-3509434118277818/6890544461",
                     "adStatus":1
                 },
                 {
@@ -86,7 +86,7 @@
                 {
                    "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/7026922632",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5082638771",
                     "adStatus":1
                 },
                 {
@@ -98,7 +98,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/1435652781",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5459448265",
                     "adStatus":1
                 },
                 {
