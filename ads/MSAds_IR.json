@@ -24,12 +24,7 @@
 	                   "adPlaceID": "ca-app-pub-3509434118277818/2239950680",	
 	                   "adStatus":1
 	               },
-	               {	
-	                   "adSourceName": "admob",	
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/4490671517",
-	                   "adStatus":1
-	               },	
+	               
 	               {
 	                   "adSourceName": "admob",
 	                   "adFormatType": "int",
@@ -37,12 +32,7 @@
 	                   "adStatus":1
 	               },
 	
-	                                {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/5840246353",
-	                   "adStatus":1
-	               },
+	                                
 	               {	
 	                   "adSourceName": "admob",
 	                   "adFormatType": "int",
@@ -52,7 +42,7 @@
 	                                {	
 	                   "adSourceName": "admob",
 	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/1481364797",
+	                   "adPlaceID": "ca-app-pub-3509434118277818/4490671517",
 	                   "adStatus":1
 	               }
 	           ]	
@@ -77,23 +67,14 @@
 	                   "adPlaceID": "ca-app-pub-3509434118277818/5281843153",
 	                   "adStatus":1
 	               },	
-	                                {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/2634185434",
-	                   "adStatus":1
-	               },
+	                               
 	               {	
 	                   "adSourceName": "admob",
 	                   "adFormatType": "int",
 	                   "adPlaceID": "ca-app-pub-3509434118277818/9687992023",
 	                   "adStatus":1
 	               },
-	                                {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/4144021306",
-	                   "adStatus":1
+	                               
 	               },
 	                       {
 	                   "adSourceName": "admob",
@@ -104,65 +85,9 @@
 	                                {
 	                   "adSourceName": "admob",
 	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/4259571371",
+	                   "adPlaceID": "ca-app-pub-3509434118277818/9029516476",
 	                   "adStatus":1
-	               }
-
-	           ]
-	       },
-	                {        
-	                        "adPlaceID":"tizi_report",
-	           "adStatus":1,
-	           "priorMode":0,
-	           "cacheMode":0,
-	                        "cacheCount":1,
-	           "adSources": [
-	                                {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/4607055731",
-	                   "adStatus":1
-	               },
-	                                {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/6658504007",
-	                   "adStatus":1
-	               },
-	                                {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/1406177326",
-	                   "adStatus":1
-	               }
-	           ]
-	       },
-	       {
-	     "adPlaceID": "tizi_banner",
-	     "adStatus": 1,
-	     "priorMode": 0,
-	     "cacheMode": 0,
-	     "cacheCount": 1,
-	     "adSources": [
-	       {
-	         "adSourceName": "admob",
-	         "adFormatType": "ban",
-	         "adPlaceID": "ca-app-pub-3509434118277818/2547868600",
-	         "adStatus": 1
-	       },
-	       {
-	         "adSourceName": "admob",
-	         "adFormatType": "ban",
-	         "adPlaceID": "ca-app-pub-3509434118277818/1605525863",
-	         "adStatus": 1
-	       },
-	       {
-	
-	         "adSourceName": "admob",
-	         "adFormatType": "ban",
-	         "adPlaceID": "ca-app-pub-3509434118277818/7635230673",
-	         "adStatus": 1
-	       }	
+	                }	
 	     ]	
 	   }
 
