@@ -17,7 +17,7 @@
 	                        "showTime":1,
 	                        "adDelay":1800,
 	           "adSources": [        
-	                                {{
+	                                {
 	
 	                   "adSourceName": "admob",
 	                   "adFormatType": "int",
