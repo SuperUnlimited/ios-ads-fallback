@@ -1,5 +1,5 @@
 {
-    "lastUpdated":"20220930-1",
+    "lastUpdated":"20220110-1",
     "interval":10,
     "ads":[
         {
@@ -86,7 +86,7 @@
                 {
                    "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/2466316707",
+                    "adPlaceID": "ca-app-pub-3509434118277818/9984626336",
                     "adStatus":1
                 },
                 {
@@ -98,7 +98,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/7790871550",
+                    "adPlaceID": "ca-app-pub-3509434118277818/6559267088",
                     "adStatus":1
                 },
                 {
