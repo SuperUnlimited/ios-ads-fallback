@@ -1,5 +1,5 @@
 {
-    "lastUpdated":"20221112-1",
+    "lastUpdated":"20221119-1",
     "interval":10,
     "ads":[
         {
@@ -27,7 +27,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/1137949207",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5851870209",
                     "adStatus":1
                 },
                 {
@@ -39,7 +39,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/5797285493",
+                    "adPlaceID": "ca-app-pub-3509434118277818/3225706869",
                     "adStatus":1
                 },
                 {
@@ -51,7 +51,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/9197529988",
+                    "adPlaceID": "ca-app-pub-3509434118277818/7628271713",
                     "adStatus":1
                 },
                 {
@@ -98,7 +98,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/6862083011",
+                    "adPlaceID": "ca-app-pub-3509434118277818/1315473796",
                     "adStatus":1
                 },
                 {
@@ -110,7 +110,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/4560117646",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5389121180",
                     "adStatus":1
                 },
                 {
@@ -146,7 +146,7 @@
                 {
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/6552883836",
+                    "adPlaceID": "ca-app-pub-3509434118277818/5001822969",
                     "adStatus":1
                 }
             ]
