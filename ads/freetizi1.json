@@ -1,5 +1,5 @@
 {
-	"lastUpdated":"20230112-1",
+	"lastUpdated":"20230113ca-app-pub-3509434118277818/4202789723-1",
 	"interval":10,
     "ads":[
 		{	
@@ -53,7 +53,7 @@
 				{
                     "adSourceName": "admob",
                     "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/4202789723",
+                    "adPlaceID": "ca-app-pub-3509434118277818/2297283287",
                     "adStatus":1
                 }
 				
