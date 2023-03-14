@@ -1,96 +1,87 @@
 {
-	        "lastUpdated":"20180402-1",
-	        "interval":10,
-	   "ads":[
-	                {        
-	                        "adPlaceID":"tizi_startpage",
-	           "adStatus":1,
-	           "priorMode":0,
-	           "cacheMode":0,
-	                        "cacheCount":1,
-	                        "showCloseSize":30,
-	                        "limit":10,
-	                        "interval":30,
-	                        "backGroundColor":"#5c000000",
-	                        "isBack":0,
-	                        "adStyle":1,
-	                        "showTime":1,
-	                        "adDelay":1800,
-	           "adSources": [        
-	                                {
-	
-	                   "adSourceName": "admob",
-	                   "adFormatType": "int",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/2239950680",	
-	                   "adStatus":1
-	               },
-	               
-	               {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "int",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/8202723809",
-	                   "adStatus":1
-	               },
-	
-	                                
-	               {	
-	                   "adSourceName": "admob",
-	                   "adFormatType": "int",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/3301750914",
-	                   "adStatus":1
-	               },
-	                                {	
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/4490671517",
-	                   "adStatus":1
-	               }
-	           ]	
-	       },	
-	                {
-	                        "adPlaceID":"tizi_open",
-	           "adStatus": 1,
-	           "priorMode": 0,
-	           "cacheMode": 0,
-	                        "cacheCount":1,
-	                        "showCloseSize":30,
-	                        "backGroundColor":"#5c000000",
-	                        "isBack":0,
-	                        "interval":30,
-	                        "adStyle":1,
-	                        "showTime":1,
-	                        "adDelay":10,
-	           "adSources": [
-	               {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "int",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/5281843153",
-	                   "adStatus":1
-	               },	
-	                               
-	               {	
-	                   "adSourceName": "admob",
-	                   "adFormatType": "int",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/9687992023",
-	                   "adStatus":1
-	               },
-	                               
-	
-	                       {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "int",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/9029516476",
-	                   "adStatus":1
-	               },
-	                                {
-	                   "adSourceName": "admob",
-	                   "adFormatType": "adv_nav",
-	                   "adPlaceID": "ca-app-pub-3509434118277818/9029516476",
-	                   "adStatus":1
-	                }	
-	     ]	
-	   }
-
-	   ]
-	}
-
+  "lastUpdated": "20230314",
+  "interval": 10,
+  "ads": [
+    {
+      "adPlaceID": "tizi_startpage",
+      "adStatus": 1,
+      "priorMode": 0,
+      "cacheMode": 0,
+      "cacheCount": 1,
+      "showCloseSize": 30,
+      "limit": 10,
+      "interval": 30,
+      "backGroundColor": "#5c000000",
+      "isBack": 0,
+      "adStyle": 1,
+      "showTime": 1,
+      "adDelay": 1800,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/2239950680"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/8202723809"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/3301750914"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/4490671517"
+        }
+      ]
+    },
+    {
+      "adPlaceID": "tizi_open",
+      "adStatus": 1,
+      "priorMode": 0,
+      "cacheMode": 0,
+      "cacheCount": 1,
+      "showCloseSize": 30,
+      "backGroundColor": "#5c000000",
+      "isBack": 0,
+      "interval": 30,
+      "adStyle": 1,
+      "showTime": 1,
+      "adDelay": 10,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/5281843153"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/9687992023"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/9029516476"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/9029516476"
+        }
+      ]
+    }
+  ]
+}
