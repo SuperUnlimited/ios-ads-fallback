@@ -1,158 +1,152 @@
 {
-    "lastUpdated":"20230310-1",
-    "interval":10,
-    "ads":[
+  "lastUpdated": "20230314",
+  "interval": 10,
+  "ads": [
+    {
+      "adPlaceID": "tizi_startpage",
+      "adStatus": 1,
+      "priorMode": 0,
+      "cacheMode": 0,
+      "cacheCount": 1,
+      "showCloseSize": 30,
+      "limit": 10,
+      "interval": 30,
+      "backGroundColor": "#5c000000",
+      "isBack": 0,
+      "adStyle": 1,
+      "showTime": 1,
+      "adDelay": 1800,
+      "adSources": [
         {
-            "adPlaceID":"tizi_startpage",
-            "adStatus":1,
-            "priorMode":0,
-            "cacheMode":0,
-            "cacheCount":1,
-            "showCloseSize":30,
-            "limit":10,
-            "interval":30,
-            "backGroundColor":"#5c000000",
-            "isBack":0,
-            "adStyle":1,
-            "showTime":1,
-            "adDelay":1800,
-            "adSources": [
-                
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/8367693925",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/6326519401",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/4396675231",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/6652455489",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/1441787953",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/9087047132",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admanager",
-                    "adFormatType": "int",
-                    "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2",
-                    "adStatus": 1
-                }
-                
-            ]
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/8367693925"
         },
         {
-            "adPlaceID":"tizi_open",
-            "adStatus": 1,
-            "priorMode": 0,
-            "cacheMode": 0,
-            "cacheCount":1,
-            "showCloseSize":30,
-            "backGroundColor":"#5c000000",
-            "isBack":0,
-            "interval":30,
-            "adStyle":1,
-            "showTime":1,
-            "adDelay":10,
-            "adSources": [
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/2568572330",
-                    "adStatus":1
-                },
-                {
-                   "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/6170333669",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/2783091107",
-                    "adStatus":1
-                },                
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/3643148767",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "int",
-                    "adPlaceID": "ca-app-pub-3509434118277818/5764477669",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/1472445294",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admanager",
-                    "adFormatType": "int",
-                    "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2",
-                    "adStatus": 1
-                }
-        
-            
-                
-            ]
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/6326519401"
         },
         {
-            "adPlaceID":"tizi_report",
-            "adStatus":1,
-            "priorMode":0,
-            "cacheMode":0,
-            "cacheCount":1,
-            "adSources": [
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/1595268999",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/7134677347",
-                    "adStatus":1
-                },
-                {
-                    "adSourceName": "admob",
-                    "adFormatType": "adv_nav",
-                    "adPlaceID": "ca-app-pub-3509434118277818/4414740778",
-                    "adStatus":1
-                }
-            ]
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/4396675231"
         },
-
         {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/6652455489"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/1441787953"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/9087047132"
+        },
+        {
+          "adSourceName": "admanager",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2"
+        }
+      ]
+    },
+    {
+      "adPlaceID": "tizi_open",
+      "adStatus": 1,
+      "priorMode": 0,
+      "cacheMode": 0,
+      "cacheCount": 1,
+      "showCloseSize": 30,
+      "backGroundColor": "#5c000000",
+      "isBack": 0,
+      "interval": 30,
+      "adStyle": 1,
+      "showTime": 1,
+      "adDelay": 10,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/2568572330"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/6170333669"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/2783091107"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/3643148767"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "ca-app-pub-3509434118277818/5764477669"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/1472445294"
+        },
+        {
+          "adSourceName": "admanager",
+          "adStatus": 1,
+          "adFormatType": "int",
+          "adPlaceID": "/22607734416/t3_Blue_IOS_Int_top_0924_2"
+        }
+      ]
+    },
+    {
+      "adPlaceID": "tizi_report",
+      "adStatus": 1,
+      "priorMode": 0,
+      "cacheMode": 0,
+      "cacheCount": 1,
+      "adSources": [
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/1595268999"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/7134677347"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/4414740778"
+        }
+      ]
+    },
+    {
       "adPlaceID": "tizi_banner",
       "adStatus": 1,
       "priorMode": 0,
@@ -161,24 +155,23 @@
       "adSources": [
         {
           "adSourceName": "admob",
+          "adStatus": 1,
           "adFormatType": "ban",
-          "adPlaceID": "ca-app-pub-3509434118277818/8643879101",
-          "adStatus": 1
+          "adPlaceID": "ca-app-pub-3509434118277818/8643879101"
         },
         {
           "adSourceName": "admob",
+          "adStatus": 1,
           "adFormatType": "ban",
-          "adPlaceID": "ca-app-pub-3509434118277818/2270042441",
-          "adStatus": 1
+          "adPlaceID": "ca-app-pub-3509434118277818/2270042441"
         },
         {
           "adSourceName": "admob",
+          "adStatus": 1,
           "adFormatType": "ban",
-          "adPlaceID": "ca-app-pub-3509434118277818/1912973318",
-          "adStatus": 1
+          "adPlaceID": "ca-app-pub-3509434118277818/1912973318"
         }
       ]
     }
-        
-    ]
+  ]
 }
