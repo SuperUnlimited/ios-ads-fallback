@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20231006",
+  "lastUpdated": "20231009",
   "interval": 10,
   "ads": [
     {
@@ -26,32 +26,14 @@
         {
           "adSourceName": "admob",
           "adStatus": 1,
-          "adFormatType": "adv_nav",
-          "adPlaceID": "ca-app-pub-3509434118277818/2836028896"
-        },
-        {
-          "adSourceName": "admob",
-          "adStatus": 1,
           "adFormatType": "int",
           "adPlaceID": "ca-app-pub-3509434118277818/4396675231"
         },
         {
           "adSourceName": "admob",
           "adStatus": 1,
-          "adFormatType": "adv_nav",
-          "adPlaceID": "ca-app-pub-3509434118277818/3326875682"
-        },
-        {
-          "adSourceName": "admob",
-          "adStatus": 1,
           "adFormatType": "int",
           "adPlaceID": "ca-app-pub-3509434118277818/1441787953"
-        },
-        {
-          "adSourceName": "admob",
-          "adStatus": 1,
-          "adFormatType": "adv_nav",
-          "adPlaceID": "ca-app-pub-3509434118277818/7098552003"
         },
         {
           "adSourceName": "admanager",
@@ -84,32 +66,14 @@
         {
           "adSourceName": "admob",
           "adStatus": 1,
-          "adFormatType": "adv_nav",
-          "adPlaceID": "ca-app-pub-3509434118277818/5018363390"
-        },
-        {
-          "adSourceName": "admob",
-          "adStatus": 1,
           "adFormatType": "int",
           "adPlaceID": "ca-app-pub-3509434118277818/2783091107"
         },
         {
           "adSourceName": "admob",
           "adStatus": 1,
-          "adFormatType": "adv_nav",
-          "adPlaceID": "ca-app-pub-3509434118277818/2749356539"
-        },
-        {
-          "adSourceName": "admob",
-          "adStatus": 1,
           "adFormatType": "int",
           "adPlaceID": "ca-app-pub-3509434118277818/5764477669"
-        },
-        {
-          "adSourceName": "admob",
-          "adStatus": 1,
-          "adFormatType": "adv_nav",
-          "adPlaceID": "ca-app-pub-3509434118277818/9531931897"
         },
         {
           "adSourceName": "admanager",
