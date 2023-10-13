@@ -26,12 +26,6 @@
         {
           "adSourceName": "admob",
           "adStatus": 1,
-          "adFormatType": "adv_nav",
-          "adPlaceID": "ca-app-pub-3509434118277818/8212032904"
-        },
-        {
-          "adSourceName": "admob",
-          "adStatus": 1,
           "adFormatType": "int",
           "adPlaceID": "ca-app-pub-3509434118277818/1853620069"
         },
@@ -40,6 +34,12 @@
           "adStatus": 1,
           "adFormatType": "int",
           "adPlaceID": "ca-app-pub-3509434118277818/4288211719"
+        },
+        {
+          "adSourceName": "admob",
+          "adStatus": 1,
+          "adFormatType": "adv_nav",
+          "adPlaceID": "ca-app-pub-3509434118277818/8212032904"
         }
       ]
     },
